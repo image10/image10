@@ -2,33 +2,23 @@
 
 I'm Matvey, a professional **self taught** Full Stack developer from Moscow.
 
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
+![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 
 ### Technologies
 
-[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)]
-[![](https://img.shields.io/badge/-Express-000?&logo=express)]
-[![](https://img.shields.io/badge/-React-000?&logo=React)]
-[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)]
-[![](https://img.shields.io/badge/-Flask-000?&logo=Flask)]
+![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![](https://img.shields.io/badge/-Express-000?&logo=express)
+![](https://img.shields.io/badge/-React-000?&logo=React)
+![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 ### Other
 
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)]
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)]
-[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)]
-[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)]
-[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)]
-[![](https://img.shields.io/badge/-Git-000?&logo=Git)]
-[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]
-[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)]
-[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)]
-[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)]
-[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)]
-[![](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=008AD7)]
+![](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
