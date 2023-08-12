@@ -2,7 +2,7 @@
 
 I'm Matvey, a professional **self taught** Full Stack developer from Moscow.
 
-![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
+[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
 
 ### Languages
 
