@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IMAGE</h1>
 <h3 align="center">a dedicated Backend developer hailing from Egypt who has honed my skills through self-guided learning.</h3>
 
-- 🌱 I’m currently learning **Rust, Webassimbly**
+- 🌱 I’m currently learning **Rust, Webassembly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
